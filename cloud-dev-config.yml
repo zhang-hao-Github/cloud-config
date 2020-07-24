@@ -1,2 +1,2 @@
-server:
-  port: 1111
+config:
+  info: version1.0 dev-environment
